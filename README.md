@@ -104,7 +104,7 @@ Estas são algumas opções de editores de código:
 
 
 ## Resumo de atividades
-- [ ] 💻 Escolher um Ambiente de desenvolvimento e realizar as devidas instalações
+- [x] 💻 Escolher um Ambiente de desenvolvimento e realizar as devidas instalações
 - [ ] 🔧 Instalar Ferramentas adicionais
     - [ ] ✨ Instalar o oh my zsh
     - [ ] ⚙️ Instalar o Power Toys
