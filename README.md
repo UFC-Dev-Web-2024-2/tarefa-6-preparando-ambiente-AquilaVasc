@@ -106,7 +106,7 @@ Estas são algumas opções de editores de código:
 ## Resumo de atividades
 - [x] 💻 Escolher um Ambiente de desenvolvimento e realizar as devidas instalações
 - [ ] 🔧 Instalar Ferramentas adicionais
-    - [ ] ✨ Instalar o oh my zsh
+    - [x] ✨ Instalar o oh my zsh
     - [ ] ⚙️ Instalar o Power Toys
         - [ ] Testar o Power Toys
 - [ ] 🖊️ Instalar VSCOde (Editor de código)
